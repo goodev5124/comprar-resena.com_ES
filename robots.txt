@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://comprar-resena.es/sitemap.xml
+Sitemap: https://comprar-resena.com/sitemap.xml
